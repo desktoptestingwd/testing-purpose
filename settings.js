@@ -5,7 +5,7 @@ const moralisApi = "rAf9chWZG56gYn1xLchm0oR0lwOM876kUAnbMlVk6lOuEcXXXQus2AmGlxfC
 const collectionInfo = {
     name: "NFTs DISCRETE",
     title: "DISCRETE MINT Template", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
-    date: "25.04.2022",
+    date: "27.11.2022",
     socialMedia: {
         discord: "https://discord.gg/example",
         twitter: "https://twitter.com/example",
